@@ -1,0 +1,5 @@
+<project name="Inner-API" default="build">
+	<target name="build">
+		<echo message="hello world" />
+	</target>
+</project>
